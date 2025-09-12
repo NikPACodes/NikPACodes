@@ -3,6 +3,9 @@
   I'm a Backend developer with experience in SAP ABAP, Python, Scala, C++ and SQL, also I have experience in the Frontend: JavaScript, CSS, HTML.
 </h3>
 
+[![RUS](https://img.shields.io/badge/README-Russian-blue.svg)](README.md)
+[![RUS](https://img.shields.io/badge/README-English-red.svg)](README.en.md)
+
 ## Skills
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
