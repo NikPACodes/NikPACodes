@@ -4,7 +4,7 @@
 </h3>
 
 [![RUS](https://img.shields.io/badge/README-Russian-blue.svg)](README.md)
-[![RUS](https://img.shields.io/badge/README-English-red.svg)](README.en.md)
+[![ENG](https://img.shields.io/badge/README-English-red.svg)](README.en.md)
 
 ## Skills
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
