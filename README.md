@@ -7,6 +7,7 @@
 [![ENG](https://img.shields.io/badge/README-English-red.svg)](README.en.md)
 
 ## Skills
+<!--
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)](#)
@@ -16,6 +17,23 @@
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
+-->
+![Python](img/python-96.png)
+![DJ](img/dj-96.png)
+![C++](img/cpp-96.png)
+![Scala](img/scala-96.png)
+![Abap](img/sap-96.png)
+
+![HTML5](img/html5-96.png)
+![CSS3](img/css3-96.png)
+![JS](img/js-96.png)
+
+![Postgres](img/postgres-96.png)
+![Redis](img/redis-96.png)
+
+
+
+
 
 <!-- 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -26,6 +44,7 @@
 -->
 
 ## Tools
+<!--
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
@@ -35,6 +54,21 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)   
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)   
+-->
+
+
+![VS](img/vs-96.png)
+![VSC](img/vsc-96.png)
+![IJ](img/idea-96.png)
+![Vim](img/vim-96.png)
+![Notepad++](img/notepadpp-96.png)
+
+![Ubuntu](img/ubuntu-96.png)
+![Windows](img/windows-96.png)
+
+![Figma](img/figma-96.png)
+
+
 
 <!--
 ## Contacts
@@ -48,10 +82,10 @@
 
 <p align="center">
   <a href="#">
-    <img width="400" align="top" src="gen/metrics/header.svg"/>
+    <img width="500" align="top" src="gen/metrics/header.svg"/>
   </a>
   &emsp;
   <a href="#">
-    <img width="400" align="top" src="gen/metrics/statistics.svg" />
+    <img width="500" align="top" src="gen/metrics/statistics.svg" />
   </a>
 </p>
