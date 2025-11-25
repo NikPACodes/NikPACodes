@@ -73,10 +73,10 @@
 
 <p align="center">
   <a href="#">
-    <img width="450" align="top" src="gen/metrics/header.svg"/>
+    <img width="400" align="top" src="gen/metrics/header.svg"/>
   </a>
   &emsp;
   <a href="#">
-    <img width="450" align="top" src="gen/metrics/statistics.svg" />
+    <img width="400" align="top" src="gen/metrics/statistics.svg" />
   </a>
 </p>
